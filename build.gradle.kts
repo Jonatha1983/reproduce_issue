@@ -55,7 +55,7 @@ dependencies {
 
     testImplementation(libs.bundles.kTest)
     testImplementation("org.opentest4j:opentest4j:1.3.0")
-    testImplementation("com.fasterxml.jackson.core:jackson-databind:2.17.0")
+    testImplementation("com.fasterxml.jackson.core:jackson-databind:2.18.2")
     testImplementation("org.junit.jupiter:junit-jupiter:5.11.4")
     testImplementation("org.junit.platform:junit-platform-launcher:1.11.4")
     testImplementation("org.kodein.di:kodein-di-jvm:7.25.0")
